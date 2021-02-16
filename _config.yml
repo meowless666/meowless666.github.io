@@ -1,9 +1,9 @@
 title: "Meowless :: Homepage"
 tagline: "CTFs , Tryhackme and Hackthebox writeups"
 description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/"
-url: "https://meowless666.github.io"
+github_username: meowless666
+baseurl: "/meowless666.github.io"
+url: "https://meowless666.github.io/"
 
 plugins:
   - jemoji
