@@ -2,7 +2,7 @@ title: "Meowless"
 tagline: "CTFs , Tryhackme and Hackthebox writeups"
 description: "honestly, idk"
 github_username: meowless666
-baseurl: "/meowless666.github.io"
+baseurl: "/"
 url: "https://meowless666.github.io/"
 
 plugins:
